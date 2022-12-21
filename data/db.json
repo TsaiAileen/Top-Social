@@ -1,0 +1,204 @@
+{
+  "profile": {
+    "name": "Aileen Tsai",
+    "at": "@aileentsai",
+    "img_src": "./src/images/profile/215_8.jpg"
+  },
+
+  "highline": {
+    "description": [
+      "Your Stories",
+      "Your View",
+      "Your Emotion",
+      "Your Opinion",
+      "Your Feeling",
+      "Your Love"
+    ]
+  },
+  "cards": [
+    {
+      "id": 1,
+      "profile": {
+        "src": "./src/images/profile/profile_2.png",
+        "name": "Aileen Tsai",
+        "position": "Sydney Central",
+        "time": "15 MINUTES AGO"
+      },
+      "picture": {
+        "img_src": "./src/images/post/post_5.jpeg"
+      },
+      "comment": {
+        "img_src_list": [
+          "./src/images/profile/profile_5.png",
+          "./src/images/profile/profile_6.png",
+          "./src/images/profile/profile_7.png"
+        ],
+        "first_people_name": "Ray Lee",
+        "like_peoples_number": 2453,
+        "comment_info": "Met a handsome man with a big moustache at the station. #lifestyle",
+        "view_number": 3473
+      }
+    },
+    {
+      "id": 2,
+      "profile": {
+        "src": "./src/images/profile/profile_3.png",
+        "name": "Ray Lee",
+        "position": "Rushcutters Bay",
+        "time": "30 MINUTES AGO"
+      },
+      "picture": {
+        "img_src": "./src/images/post/post_6.jpeg"
+      },
+      "comment": {
+        "img_src_list": [
+          "./src/images/profile/profile_5.png",
+          "./src/images/profile/profile_6.png",
+          "./src/images/profile/profile_7.png"
+        ],
+        "first_people_name": "Aileen Tsai",
+        "like_peoples_number": 1948,
+        "comment_info": "Accompanying my wife to exercise. #healthylifestyle",
+        "view_number": 3247
+      }
+    },
+    {
+      "id": 3,
+      "profile": {
+        "src": "./src/images/profile/profile_4.png",
+        "name": "Charlotte Tsai",
+        "position": "Town Hall",
+        "time": "45 MINUTES AGO"
+      },
+      "picture": {
+        "img_src": "./src/images/post/post_7.jpeg"
+      },
+      "comment": {
+        "img_src_list": [
+          "./src/images/profile/profile_5.png",
+          "./src/images/profile/profile_6.png",
+          "./src/images/profile/profile_7.png"
+        ],
+        "first_people_name": "Aileen Tsai",
+        "like_peoples_number": 4322,
+        "comment_info": "A miracle found by chance in the corner of the university. #schoollife",
+        "view_number": 3547
+      }
+    },
+    {
+      "id": 4,
+      "profile": {
+        "src": "./src/images/profile/profile_5.png",
+        "name": "Vivian Lin",
+        "position": "Potts Point",
+        "time": "60 MINUTES AGO"
+      },
+      "picture": {
+        "img_src": "./src/images/post/post_8.jpeg"
+      },
+      "comment": {
+        "img_src_list": [
+          "./src/images/profile/profile_5.png",
+          "./src/images/profile/profile_6.png",
+          "./src/images/profile/profile_7.png"
+        ],
+        "first_people_name": "Ellie Huang",
+        "like_peoples_number": 4357,
+        "comment_info": "Me in the eye of my boyfriend. #lovestory",
+        "view_number": 6453
+      }
+    },
+    {
+      "id": 5,
+      "profile": {
+        "src": "./src/images/profile/profile_6.png",
+        "name": "Ellie Huang",
+        "position": "Darling Harbour",
+        "time": "2 HOURS AGO"
+      },
+      "picture": {
+        "img_src": "./src/images/post/post_9.jpeg"
+      },
+      "comment": {
+        "img_src_list": [
+          "./src/images/profile/profile_5.png",
+          "./src/images/profile/profile_6.png",
+          "./src/images/profile/profile_7.png"
+        ],
+        "first_people_name": "Milly Chen",
+        "like_peoples_number": 4529,
+        "comment_info": "At this moment I just want to enjoy the warmth of this man in peace. #lovestory",
+        "view_number": 5741
+      }
+    },
+    {
+      "id": 6,
+      "profile": {
+        "src": "./src/images/profile/profile_9.png",
+        "name": "Milly Chen",
+        "position": "DBlue Mountain",
+        "time": "3 HOURS AGO"
+      },
+      "picture": {
+        "img_src": "./src/images/post/post_10.jpeg"
+      },
+      "comment": {
+        "img_src_list": [
+          "./src/images/profile/profile_5.png",
+          "./src/images/profile/profile_6.png",
+          "./src/images/profile/profile_7.png"
+        ],
+        "first_people_name": "Doreen Lim",
+        "like_peoples_number": 8445,
+        "comment_info": "A moment to enjoy natural living with this adorable guy. #adventurestory",
+        "view_number": 7640
+      }
+    }
+  ],
+  "message":[
+    {
+      "id": 1,
+      "src": "./src/images/profile/profile_2.png",
+      "name": "Tomas Li",
+      "msg": "Hi, Long time no see!"
+    },
+    {
+      "id": 2,
+      "src": "./src/images/profile/profile_3.png",
+      "name": "Lana Rose",
+      "msg": "Birthday Tomorrow!"
+    },
+    {
+      "id": 3,
+      "src": "./src/images/profile/profile_4.png",
+      "name": "No One",
+      "msg": "lol u right."
+    },
+    {
+      "id": 4,
+      "src": "./src/images/profile/profile_5.png",
+      "name": "Emily",
+      "msg": "emm, sounds good."
+    },
+    {
+      "id": 5,
+      "src": "./src/images/profile/profile_6.png",
+      "name": "Alex",
+      "msg": "hang on, give me a sec."
+    }
+  ],
+  "request":[
+    {
+      "id": 1,
+      "src": "./src/images/profile/profile_7.png",
+      "name": "Hajia Bintu",
+      "mutualFriendNum": 8
+    },
+    {
+      "id": 2,
+      "src": "./src/images/profile/profile_8.png",
+      "name": "Jackline Mensah",
+      "mutualFriendNum": 19
+    }
+  ]
+}
