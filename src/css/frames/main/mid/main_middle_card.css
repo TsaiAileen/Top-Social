@@ -1,0 +1,82 @@
+.info {
+  background: #fff;
+  margin: 1rem 0;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+.info-profile {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0.4rem 0.1rem;
+}
+
+.info-profile .profile {
+  padding: 0;
+}
+
+.info-picture img {
+  border-radius: 0.5rem;
+}
+
+.info-control {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem;
+}
+
+.info-control .main-control {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.info-control {
+  font-size: 1.5rem;
+}
+
+.info-control i::before {
+  color:  steelblue;
+}
+
+.info-control .control-heart:hover::before {
+  color: crimson;
+}
+
+.info-control .uil-comment-dots:hover::before {
+  color: darkturquoise
+}
+
+.info-control .uil-share:hover::before {
+  color:darkviolet
+}
+
+/* .info-control i:hover::before {
+  color: red;
+} */
+
+.info-control>i::before {
+  color: #E4C900;
+}
+
+.info-control>i:hover::before {
+  color: var(--color-primary);
+}
+
+
+/* 
+.like-info {
+  font-size: 0.8rem;
+} */
+
+.info-comment {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  font-size: small;
+}
+
+.view-btn:hover {
+  color: var(--color-primary);
+  cursor: pointer;
+}

@@ -1,0 +1,38 @@
+/* --- Nav --- */
+:root {
+  --nav-background-color: #fff;
+}
+
+nav {
+  display: block;
+  position: fixed;
+  z-index: 999;
+  
+  width: 100%;
+  top: 0;
+  padding: 0.7rem 0;
+
+  background: var(--nav-background-color);
+}
+
+nav .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+nav .container .logo {
+  text-transform: uppercase;
+  text-shadow: 2px 2px 4px #4a4848;
+  /* font-family: "Comfortaa", cursive; */
+  font-family: "Fantasy", Papyrus;
+  font-size: 1.5rem;
+  user-select: none;
+}
+
+nav .container .create {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
